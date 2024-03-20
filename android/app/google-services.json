@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638284889924",
+    "project_id": "flutter-fcm-eddb5",
+    "storage_bucket": "flutter-fcm-eddb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638284889924:android:7a848b476fe46db5b02111",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDre0TzB4VLevBm8AlUJF2l91d7OjHJuTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
